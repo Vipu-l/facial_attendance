@@ -1,8 +1,0 @@
-streamlit
-deepface
-pandas
-pillow
-openpyxl
-pytz
-opencv-python-headless
-keras<3.0
